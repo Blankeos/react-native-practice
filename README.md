@@ -7,7 +7,7 @@ Here are my goal projects:
 
 ### Master UI building and primitives
 
-- [ ] A counter app - to learn basic UI.
+- [x] A counter app - to learn basic UI.
 - [ ] Todo - basic state with saving
 - [ ] Pomodoro timer - intermediate state
 - [ ] Splash screen and pokemon dashboard - learn page transitions and onboarding.
